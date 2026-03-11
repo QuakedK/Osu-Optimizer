@@ -1,4 +1,4 @@
-# OSU Maps
+# Osu! Maps
 
 [500+ Beatmap Pack](https://drive.google.com/file/d/1Hbqm2zlBE3iUobEye0BjNe8RLO5KX0sg/view)
 
