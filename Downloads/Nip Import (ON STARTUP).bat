@@ -41,5 +41,5 @@ if exist "%DownloadsFolder%\%FileName%" (
 :: Import Custom OSU Nip.
 :Import_Nip
 "C:\OSU Tools\nvidiaProfileInspector.exe" -silentImport "C:\OSU Tools\OSU.nip" >nul 2>&1
-pause
 exit
+
