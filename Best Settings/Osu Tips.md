@@ -20,7 +20,12 @@ Cursor ripples: OFF
 ```
 
 # Skins
-
 > [!NOTE]
 > It's recommended you change your Osu! skin.
+
+# Gamma
+> [!NOTE]
+> Changing your gamma is a known tip, that may help users.
+
+[Gamma Manager](https://github.com/luan5431/Gamma-Manager/releases)
 
