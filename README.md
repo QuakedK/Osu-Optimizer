@@ -3,6 +3,8 @@ The all-in-done, easy & simple Osu! tool. This simple and user friendly bat will
 
 <img width="977" height="510" alt="image" src="https://github.com/user-attachments/assets/2afe3ce0-76ff-4863-8023-e0b4afbbdec5" />
 
+![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Osu-Optimizer/total) 
+
 # Usage
 
 1. Download [Osu Optimizer](https://github.com/QuakedK/Osu-Optimizer/releases/download/OSU/OSU-Optimizer-V1.0.bat).
