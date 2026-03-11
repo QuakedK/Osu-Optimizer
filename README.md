@@ -22,7 +22,7 @@ Low Latency Mode: Ultra
 
 > [!NOTE]
 > The most significant part of the Nvidia Custom OSU Nip is actually ```Threaded Optimization```, which can drastically reduce OSU latency.
-> However on Osu! Stable It will actively revert the changes made to threaded optimization, turning it off every time you re-open osu!.
+> However on Osu! Stable will actively revert the changes made to threaded optimization, aka turning it off every time you re-open osu!.
 
 # How to prevent Osu! from turning off Threaded Optimization?
 Osu will automatically turn off ```Threaded Optimization```, when restarting/re-opening Osu regardless of what you do.
