@@ -30,3 +30,6 @@ High lighting: OFF
 Shader: OFF
 Softening filter: OFF
 ```
+
+# Tips
+Learn more here ->[Osu tips](https://github.com/QuakedK/Osu-Optimizer/blob/main/Best%20Settings/Osu%20Tips.md).
