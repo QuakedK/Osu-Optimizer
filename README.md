@@ -11,7 +11,7 @@ The all-in-done, easy & simple Osu tool. This simple and user friendly bat will 
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
 
 # Nvidia OSU Nip?
-The Osu Optimizer includes an option to download Nvidia Profile Inspector and Custom OSU Nip, that increases the performance of Osu.
+The Osu Optimizer includes an option to download Nvidia Profile Inspector and [Custom OSU Nip](https://github.com/QuakedK/Osu-Optimizer/blob/main/Downloads/OSU.nip), that increases the performance of Osu.
 
 ```
 Power Management Mode: Perfer Maximum Performance
