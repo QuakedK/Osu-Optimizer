@@ -26,7 +26,7 @@ Low Latency Mode: Ultra
 
 # How to prevent Osu! from turning off Threaded Optimization?
 Osu will automatically turn off ```Threaded Optimization```, when restarting/re-opening Osu regardless of what you do.
-So the only workaround would be tediously re-enabling threaded optimization. However, we can automate or make this process much easier by downloading [Nip Import](https://github.com/QuakedK/Osu-Optimizer/blob/main/Downloads/Nip%20Import.bat) and running it before re-opening Osu but after restarting Osu.
+So the only workaround would be tediously re-enabling threaded optimization. However, we can automate or make this process much easier by downloading [Nip Import](https://github.com/QuakedK/Osu-Optimizer/blob/main/Downloads/Nip%20Import.bat) and running it after restarting Osu or before re-opening Osu.
 
 [Nip Import](https://github.com/QuakedK/Osu-Optimizer/blob/main/Downloads/Nip%20Import.bat) | Very lightweight bat that downloads Nvidia Profile Inspector and the Custom OSU Nip and imports it siently with no console!
 
