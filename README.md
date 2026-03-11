@@ -5,7 +5,7 @@ The all-in-done, easy & simple Osu! tool. This simple and user friendly bat will
 
 # Usage
 
-1. Download [Osu Optimizer]().
+1. Download [Osu Optimizer](https://github.com/QuakedK/Osu-Optimizer/releases/download/OSU/OSU-Optimizer-V1.0.bat).
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
 
 # Nvidia OSU Nip?
@@ -24,4 +24,11 @@ Low Latency Mode: Ultra
 
 # How to prevent Osu! from turning off Threaded Optimization?
 Osu will automatically turn off ```Threaded Optimization```, when restarting/re-opening Osu regardless of what you do.
-So the only workaround would be tediously re-enabling threaded optimization. However, we can automate or make this process much easier by making a simple script that re-imports it!
+So the only workaround would be tediously re-enabling threaded optimization. However, we can automate or make this process much easier by downloading [Nip Import](https://github.com/QuakedK/Osu-Optimizer/releases/download/OSU/Nip-Import.bat) and running it before re-opening or restart Osu.
+
+[Nip Import](https://github.com/QuakedK/Osu-Optimizer/releases/download/OSU/Nip-Import.bat) | Very lightweight bat that downloads Nvidia Profile Inspector and the Custom OSU Nip and imports it siently with no console!
+
+[Nip Import (ON STARTUP)](https://github.com/QuakedK/Osu-Optimizer/releases/download/OSU/Nip-Import-ON-STARTUP.bat) | The same as the regular version, however this version adds itself to the startup, so every time you restart your computer, it will open in the background and import the NIP.
+
+> [!WARNING]
+> If you download and run [Nip Import (ON STARTUP)](https://github.com/QuakedK/Osu-Optimizer/releases/download/OSU/Nip-Import-ON-STARTUP.bat), Do not delete it after, because It obviously cannot open on startup if it no longer exists. Also do not move the NIP import bat to a different path or directory as the script gets the current path of the batch file and uses that for the startup reg key, so if it is moved, it will no longer work on startup.
